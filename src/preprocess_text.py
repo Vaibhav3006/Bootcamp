@@ -30,4 +30,4 @@ def tokenize_text(text):
     return text.split()
 
 def something():
-    return 2
+    return 4
